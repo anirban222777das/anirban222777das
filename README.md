@@ -48,8 +48,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/JMMSbWt_Gs0AAAAd/rdr2-red-dead-redemption2.gif"  />
-</div>
-
-###
