@@ -1,54 +1,82 @@
-<h2 align="left">Hi 👋! My name is Anirban...</h2>
-
-###
+<h1 align="center">👋 Hello! I'm Anirban Das</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban222777das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
+  <table>
+    <tr>
+      <td>
+        <h2>About Me</h2>
+        <p>
+          I'm a passionate developer, animator, and designer with a love for crafting engaging digital experiences. Exploring the intersection of technology and creativity is my forte.
+        </p>
+      </td>
+      <td>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=anirban222777das&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
-###
+> **Note**: If the GitHub Stats show "Something went wrong," it's likely due to rate limits. Hosting your own instance of the stats API using [Vercel](https://vercel.com/) can solve this.
 
-<img align="right" height="200" width="300" src="https://media1.tenor.com/m/gwOd-lzRJlsAAAAd/muneh-rdr2.gif"  />
+---
 
-###
+## 🛠️ Skills & Tools
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/anirban-das-croundous" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/anirbananimates/profilecard/?igsh=NGxmcjhoMTFmZ2k4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/people/Anirban-Das/pfbid0316huG77Pe6Ls8FMn1rUGSxKRMaK6Dx8huCF9uQJP9pPy8trmt3tXQjFounPF5UJfl/?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
 </div>
 
-###
+---
+
+## 👀 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/anirban222777das/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/anirban222777das/count.svg" alt="Visitor Count" />
 </div>
 
-###
+---
 
+## 🎉 Fun Fact
+
+> "Creativity is intelligence having fun." – Albert Einstein
+
+---
+
+Feel free to reach out and connect with me on any of the platforms above. Let's build something amazing together! 🚀
