@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/gwOd-lzRJlsAAAAd/muneh-rdr2.gif"  />
+<img align="right" height="150" width="300" src="https://media1.tenor.com/m/gwOd-lzRJlsAAAAd/muneh-rdr2.gif"  />
 
 ###
 
