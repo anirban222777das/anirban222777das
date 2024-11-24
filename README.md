@@ -1,3 +1,5 @@
+# 👋 Hello! I'm Anirban Das
+
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <!-- Left side: Hello text -->
   <h1 style="color: #3498db; margin-right: 20px;">👋 Hello! I'm Anirban Das</h1>
@@ -27,6 +29,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50" alt="Photoshop" style="margin: 10px;" />
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<div align="center">
+  <h2 style="color: #2ecc71;">About Me</h2>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <!-- GIF -->
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" style="margin-right: 20px;"/>
+    <!-- Description -->
+    <p style="font-size: 18px; color: #333333; max-width: 700px; text-align: center;">
+      I'm a passionate developer, animator, and designer with a love for crafting engaging digital experiences. Exploring the intersection of technology and creativity is my forte. I enjoy creating interactive content, solving problems with code, and exploring the endless possibilities of animation and 3D design.
+    </p>
+  </div>
 </div>
 
 ---
