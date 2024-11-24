@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/anirban-das-croundous" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/anirbananimates" target="_blank">
+  <a href="https://www.instagram.com/anirbananimates/profilecard/?igsh=NGxmcjhoMTFmZ2k4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/people/Anirban-Das/pfbid0316huG77Pe6Ls8FMn1rUGSxKRMaK6Dx8huCF9uQJP9pPy8trmt3tXQjFounPF5UJfl/?mibextid=ZbWKwL" target="_blank">
