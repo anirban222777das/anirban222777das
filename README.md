@@ -81,7 +81,7 @@
 ## 🎮 When I'm AFK:
 
 <p align="center">
-  <a href="https://store.steampowered.com/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199405203136/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" />
   </a>
 </p>
