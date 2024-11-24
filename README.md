@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" />
 </div>
 
-<p align="center" style="font-size: 1.3em; color: #555555; line-height: 1.5; font-family: 'Helvetica', sans-serif;">
+<p align="center">
   I'm a passionate developer, animator, and designer with a love for crafting engaging digital experiences. Exploring the intersection of technology and creativity is my forte.
 </p>
 
@@ -23,16 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50" alt="Photoshop" style="margin: 10px;" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=anirban222777das&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ---
@@ -55,22 +45,13 @@
 
 ---
 
-## 🎮 When I'm AFK:
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://store.steampowered.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" />
-  </a>
-  <a href="https://www.netflix.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" width="80" />
-  </a>
-  <a href="https://www.epicgames.com/store/en-US/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Epic_Games_Logo_2019.svg" alt="Epic Games" width="80" />
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="80" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=anirban222777das&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -101,7 +82,26 @@
 
 ---
 
+## 🎮 When I'm AFK:
+
+<p align="center">
+  <a href="https://store.steampowered.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" />
+  </a>
+  <a href="https://www.netflix.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" width="80" />
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Unreal_Engine_Logo.svg" alt="Unreal Engine" width="80" />
+  </a>
+</p>
+
+---
+
 ## 🎉 Fun Fact
 
-<p align="center" id="funFact">Loading a fun fact...</p>
+<p id="fun-fact" align="center"></p>
 
+---
+
+Feel free to reach out and connect with me on any of the platforms above. Let's build something amazing together! 🚀
