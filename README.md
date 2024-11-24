@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <!-- Left side: Hello text -->
-  <h1 style="color: #3498db; margin-right: 20px;">👋 Hello! I'm Anirban Das</h1>
+<!--   <h1 style="color: #3498db; margin-right: 20px;">👋 Hello! I'm Anirban Das</h1> -->
   
   <!-- Right side: First GIF -->
   <div style="text-align: left;">
