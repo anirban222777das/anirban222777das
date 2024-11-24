@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/GNH8EzTgjf0AAAAd/arthur-morgan-red-dead-redemption-2.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/gwOd-lzRJlsAAAAd/muneh-rdr2.gif"  />
 
 ###
 
@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ncJpdJ6ld3cAAAAd/you%27re-my-brother-arthur-morgan.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/JMMSbWt_Gs0AAAAd/rdr2-red-dead-redemption2.gif"  />
 </div>
 
 ###
