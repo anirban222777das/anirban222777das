@@ -44,7 +44,7 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgzZmw0OWRxZnBkdHY1M2c1eTNjYTgzN3dzOWxocWJjZ3lobzBpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxXOJxnUW1wP4glihY/giphy.webp" alt="Snake GIF" height="200" />
     <!-- Description -->
     <p style="font-size: 18px; color: #333333; max-width: 700px; text-align: center;">
-      Passionate Game Developer skilled in C and C++n with experience in MLH hackathons, I thrive on solving problems and creating innovative projects.
+      Passionate Game Developer skilled in C and C++ with experience in MLH hackathons, I thrive on solving problems and creating innovative projects.
     </p>
   </div>
 </div>
