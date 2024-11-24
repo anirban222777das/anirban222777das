@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/GNH8EzTgjf0AAAAd/arthur-morgan-red-dead-redemption-2.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,6 +27,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/GNH8EzTgjf0AAAAd/arthur-morgan-red-dead-redemption-2.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,6 +44,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/anirban222777das/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/ncJpdJ6ld3cAAAAd/you%27re-my-brother-arthur-morgan.gif"  />
 </div>
 
 ###
