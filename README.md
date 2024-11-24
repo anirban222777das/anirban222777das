@@ -4,13 +4,13 @@
   <!-- Left side: Hello text -->
   <h1 style="color: #3498db; margin-right: 20px;">👋 Hello! I'm Anirban Das</h1>
   
-  <!-- Right side: GIF and text -->
+  <!-- Right side: First GIF -->
   <div style="text-align: left;">
-    <!-- GIF -->
+    <!-- Previous GIF (Featured Animation) -->
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" style="margin-bottom: 10px;"/>
     <!-- Description -->
-    <p style="font-size: 18px; color: #333333; margin-top: 10px;">
-      I'm a passionate developer, animator, and designer with a love for crafting engaging digital experiences. Exploring the intersection of technology and creativity is my forte.
+    <p style="font-size: 28px; color: #333333; margin-top: 10px;">
+     I'm a passionate Developer and Gamer 
     </p>
   </div>
 </div>
@@ -37,12 +37,14 @@
 
 <div align="center">
   <h2 style="color: #2ecc71;">About Me</h2>
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <!-- GIF -->
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" style="margin-right: 20px;"/>
+  <div align="center">
+    <!-- Previous GIF (Featured Animation) -->
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4NzNucWYzYnIzdzN4eGgwZDh4bjMxMW1yZnpudzFzOHQ4M3NpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WIMcQNeu6TWoIrkfB/giphy.webp" height="200" alt="Featured Animation" />
+    <!-- Snake GIF (New Addition) -->
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgzZmw0OWRxZnBkdHY1M2c1eTNjYTgzN3dzOWxocWJjZ3lobzBpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxXOJxnUW1wP4glihY/giphy.webp" alt="Snake GIF" height="200" />
     <!-- Description -->
     <p style="font-size: 18px; color: #333333; max-width: 700px; text-align: center;">
-      I'm a passionate developer, animator, and designer with a love for crafting engaging digital experiences. Exploring the intersection of technology and creativity is my forte. I enjoy creating interactive content, solving problems with code, and exploring the endless possibilities of animation and 3D design.
+      Passionate Game Developer skilled in C and C++n with experience in MLH hackathons, I thrive on solving problems and creating innovative projects.
     </p>
   </div>
 </div>
