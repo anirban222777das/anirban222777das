@@ -1,18 +1,8 @@
 # 👋 Hello! I'm Anirban😈
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <!-- Left side: Hello text -->
-<!--   <h1 style="color: #3498db; margin-right: 20px;">👋 Hello! I'm Anirban Das</h1> -->
-  
-  <!-- Right side: First GIF -->
-  <div style="text-align: left;">
-    <!-- Previous GIF (Featured Animation) -->
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" style="margin-bottom: 10px;"/>
-    <!-- Description -->
-    <p style="font-size: 28px; color: #333333; margin-top: 10px;">
-     I'm a passionate Developer and Gamer 
-    </p>
-  </div>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" />
+  <p><b>Passionate Developer & Gamer</b></p>
 </div>
 
 ---
@@ -36,18 +26,31 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <h2 style="color: #2ecc71;">About Me</h2>
-  <div align="center">
-    <!-- Previous GIF (Featured Animation) -->
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4NzNucWYzYnIzdzN4eGgwZDh4bjMxMW1yZnpudzFzOHQ4M3NpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WIMcQNeu6TWoIrkfB/giphy.webp" height="200" alt="Featured Animation" />
-    <!-- Snake GIF (New Addition) -->
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgzZmw0OWRxZnBkdHY1M2c1eTNjYTgzN3dzOWxocWJjZ3lobzBpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxXOJxnUW1wP4glihY/giphy.webp" alt="Snake GIF" height="200" />
-    <!-- Description -->
-    <p style="font-size: 18px; color: #333333; max-width: 700px; text-align: center;">
-      Passionate Game Developer skilled in C and C++ with experience in MLH hackathons, I thrive on solving problems and creating innovative projects.
-    </p>
-  </div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4NzNucWYzYnIzdzN4eGgwZDh4bjMxMW1yZnpudzFzOHQ4M3NpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WIMcQNeu6TWoIrkfB/giphy.webp" height="200" alt="Coding GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgzZmw0OWRxZnBkdHY1M2c1eTNjYTgzN3dzOWxocWJjZ3lobzBpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxXOJxnUW1wP4glihY/giphy.webp" height="200" alt="Snake GIF" />
+  <p style="font-size: 18px; max-width: 700px;">
+    Passionate Game Developer skilled in C and C++ with experience in MLH hackathons. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
+  </p>
 </div>
+
+---
+
+## 🌟 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirban222777das&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+- Participated in multiple MLH hackathons.
+- Developed innovative games using Unreal Engine and Blender.
+- Created automation tools and algorithms in Python and C++.
+- Contributed to open-source projects and communities.
 
 ---
 
@@ -78,13 +81,13 @@
 
 ---
 
-## 🎮 When I'm AFK:
+## 🎮 When I'm AFK
 
-<p align="center">
+<div align="center">
   <a href="https://steamcommunity.com/profiles/76561199405203136/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" />
   </a>
-</p>
+</div>
 
 ---
 
