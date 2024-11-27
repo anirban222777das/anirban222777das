@@ -1,10 +1,13 @@
-# 👋 Hello! I'm Anirban😈
-
+<h1>Hi There! I am Anirban🤠</h1>
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="300" alt="Featured Animation" />
-  <p><b>Passionate Developer & Gamer</b></p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="200" alt="Featured Animation" />
+
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<br/>
+<div align="center">
+  
+ 🌱 I’m currently learning **AppDev,ReactNative**
 </div>
----
 
 ## 🛠️ Skills & Tools
 
