@@ -46,9 +46,9 @@
 
 ## 🏆 Achievements
 
+- Hack{o}Lution 2024 Runner-up.
 - Participated in multiple MLH hackathons.
 - Developed innovative games using Unreal Engine and Blender.
-- Created automation tools and algorithms in Python and C++.
 - Contributed to open-source projects and communities.
 
 ---
