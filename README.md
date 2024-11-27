@@ -4,7 +4,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" />
   <p><b>Passionate Developer & Gamer</b></p>
 </div>
-
 ---
 
 ## 🛠️ Skills & Tools
