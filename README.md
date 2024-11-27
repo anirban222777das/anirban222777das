@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Anirban😈
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF4dzIyYWNtdHRqcjc1dzRmbzIzMWtsNjc2cW5haWR4a3R3cHB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.webp" height="200" alt="Featured Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="300" alt="Featured Animation" />
   <p><b>Passionate Developer & Gamer</b></p>
 </div>
 ---
@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4NzNucWYzYnIzdzN4eGgwZDh4bjMxMW1yZnpudzFzOHQ4M3NpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WIMcQNeu6TWoIrkfB/giphy.webp" height="200" alt="Coding GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU1ZGNmZm41dHVxajdjODBnaTIxMWd5dmp3YnRkdDJzYWpzenZnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" height="200" alt="Coding GIF" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgzZmw0OWRxZnBkdHY1M2c1eTNjYTgzN3dzOWxocWJjZ3lobzBpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxXOJxnUW1wP4glihY/giphy.webp" height="200" alt="Snake GIF" />
   <p style="font-size: 18px; max-width: 700px;">
     Passionate Game Developer skilled in C and C++ with experience in MLH hackathons. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
