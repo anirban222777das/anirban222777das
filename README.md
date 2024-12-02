@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
- 🌱 I’m currently learning **AppDev,ReactNative**
+ 🌱 I’m currently learning **FlutterDev,Dart**
 
 </div>
 
