@@ -9,10 +9,6 @@
 <h4 align="center">A passionate software developer from India 🇮🇳</h4>
 <br/>
 
-<div align="center">
-  🌱 I’m currently learning **FlutterDev, Dart**
-</div>
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -42,9 +38,6 @@
     Passionate Game Developer skilled in C and C++ with experience in MLH hackathons. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
   </p>
 </div>
-
----
-
 
 
 <div align="center">
