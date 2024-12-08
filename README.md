@@ -1,9 +1,9 @@
 <h1>Hi There! I am Anirban 🤠</h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="200" alt="Featured Animation" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB5ZzRpN21wOWwxcHVycmwwd3JkbG1mdmUwcmVzeXU5MmNhOHlyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2FZNeTbQxe2OJeRwn/giphy.webp" height="200" alt="Featured Animation" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="200" alt="Featured Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bGFnNnBlcTh6c3c4NjVlaTFleHlqNWl3NWVoajhkOGEwYmhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9WIcBP2kCy3tqkGRC/giphy.webp" height="200" alt="Featured Animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzYTdnMXVzNGs2cXJyb2xuNjZvcGQ0MXBsNWVudHJmN3dkMHdsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lvqNXheb679S/200.webp" height="200" alt="Featured Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bGFnNnBlcTh6c3c4NjVlaTFleHlqNWl3NWVoajhkOGEwYmhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9WIcBP2kCy3tqkGRC/giphy.webp" height="200" alt="Featured Animation" />
 </div>
 
 <h4 align="center">A passionate software developer from India 🇮🇳</h4>
@@ -45,11 +45,11 @@
 
 ---
 
-## 🎥 Featured GIF
+
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM0bmk1dDN2NnA5YzlpbmxqOWlhbjllazlnZHJhb2p3czd6YzdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHAUOqG3lSS0f1C/giphy.webp" height="300" alt="Funny GIF" />
-  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExempueGJ4dmNxYjdpZnp2dTNoa2twOHZzM2o0N2t0cGZtNDhsdWN3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.webp" height="200" alt="Funny GIF" />
+  <h1>I am Batman</h1>
 </div>
 
 
