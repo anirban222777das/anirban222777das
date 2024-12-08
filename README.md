@@ -1,15 +1,19 @@
-<h1>Hi There!I am Anirban🤠</h1>
+<h1>Hi There! I am Anirban 🤠</h1>
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="200" alt="Featured Animation" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB5ZzRpN21wOWwxcHVycmwwd3JkbG1mdmUwcmVzeXU5MmNhOHlyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2FZNeTbQxe2OJeRwn/giphy.webp" height="200" alt="Featured Animation" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Z2NqeGQ5N3M5ZWo0eWR5dWY1enB4anhtdXoyOGJsbnRvZWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.webp" height="200" alt="Featured Animation" />
+</div>
+
 <h4 align="center">A passionate software developer from India 🇮🇳</h4>
 <br/>
+
 <div align="center">
-
- 🌱 I’m currently learning **FlutterDev,Dart**
-
+  🌱 I’m currently learning **FlutterDev, Dart**
 </div>
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -20,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50" alt="Photoshop" style="margin: 10px;" />
@@ -39,6 +45,17 @@
 
 ---
 
+## 🎥 Featured GIF
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM0bmk1dDN2NnA5YzlpbmxqOWlhbjllazlnZHJhb2p3czd6YzdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHAUOqG3lSS0f1C/giphy.webp" height="300" alt="Funny GIF" />
+  
+</div>
+
+
+
+---
+
 ## 🌟 GitHub Stats
 
 <div align="center">
@@ -51,10 +68,10 @@
 
 ## 🏆 Achievements
 
-- Hack{o}Lution 2024 Runner-up.
-- Participated in multiple MLH hackathons.
-- Developed innovative games using Unreal Engine and Blender.
-- Contributed to open-source projects and communities.
+- 🥈 Hack{o}Lution 2024 Runner-up  
+- 🎯 Participated in multiple MLH hackathons  
+- 🚀 Developed innovative games using Unreal Engine and Blender  
+- 🌱 Contributed to open-source projects and communities  
 
 ---
 
@@ -85,16 +102,6 @@
 
 ---
 
-## 🤡 My Contributions
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
----
-
 ## 🎮 When I'm AFK
 
 <div align="center">
@@ -102,7 +109,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" />
   </a>
 </div>
-
----
-
-Feel free to reach out and connect with me on any of the platforms above. Let's build something amazing together! 🚀
