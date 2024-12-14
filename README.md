@@ -1,4 +1,4 @@
-<h1>Hi There! I am Anirban 🤠 </h1>
+<h1>Hi There! I am Anirban 🤠  </h1>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bGFnNnBlcTh6c3c4NjVlaTFleHlqNWl3NWVoajhkOGEwYmhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9WIcBP2kCy3tqkGRC/giphy.webp" height="200" alt="Featured Animation" />
