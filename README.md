@@ -35,7 +35,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU1ZGNmZm41dHVxajdjODBnaTIxMWd5dmp3YnRkdDJzYWpzenZnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" height="200" alt="Coding GIF" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdvZXh4dWpzNDRtNGd6YWllNGZ5cWYwbHoxbm5jYnowNGw5cDM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ql3Z2nXhyC2vuNNn0A/giphy.webp" height="200" alt="Snake GIF" />
   <p style="font-size: 18px; max-width: 700px;">
-    Passionate Game Developer skilled in C and C++ with experience in MLH hackathons. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
+    Passionate Game Developer skilled in C and C++ with experience in MLH hackathons and UI/UX designer. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
   </p>
 </div>
 
