@@ -1,14 +1,10 @@
-<h1>Hi There! I am Anirban 🤠 </h1>
-
+<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bGFnNnBlcTh6c3c4NjVlaTFleHlqNWl3NWVoajhkOGEwYmhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9WIcBP2kCy3tqkGRC/giphy.webp" height="200" alt="Featured Animation" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzYTdnMXVzNGs2cXJyb2xuNjZvcGQ0MXBsNWVudHJmN3dkMHdsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lvqNXheb679S/200.webp" height="200" alt="Featured Animation" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bGFnNnBlcTh6c3c4NjVlaTFleHlqNWl3NWVoajhkOGEwYmhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9WIcBP2kCy3tqkGRC/giphy.webp" height="200" alt="Featured Animation" />
-</div>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<h4 align="center">A passionate Developer from India 🇮🇳</h4>
-<br/>
-
+### <div align="center">I'm Anirban, a android developer ,Frontend web dev and game developer  👨‍💻 Love to work with teams 🚀</div>  
 ---
 
 ## 🛠️ Skills & Tools  
@@ -25,29 +21,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" style="margin: 10px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" style="margin: 10px;" />  
 </div>
+  
+## 🏆 Achievements
+- 🥈 Hack{o}Lution 2024 Runner-up   
+  
+
+- 🌱  I’m currently learning Android Development   
+  
+
+- 🎯 Participated in multiple MLH hackathons  
+  
+
+- 🚀 Developed innovative games using Unreal Engine and Blender  
+  
+<br/>  
 
 
----
-
-## 🧑‍💻 About Me
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU1ZGNmZm41dHVxajdjODBnaTIxMWd5dmp3YnRkdDJzYWpzenZnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" height="200" alt="Coding GIF" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdvZXh4dWpzNDRtNGd6YWllNGZ5cWYwbHoxbm5jYnowNGw5cDM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ql3Z2nXhyC2vuNNn0A/giphy.webp" height="200" alt="Snake GIF" />
-  <p style="font-size: 18px; max-width: 700px;">
-    Passionate Game Developer skilled in C and C++ with experience in MLH hackathons and UI/UX designer. I thrive on solving problems and creating innovative projects. Let's collaborate to create something awesome!
-  </p>
-</div>
-
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExempueGJ4dmNxYjdpZnp2dTNoa2twOHZzM2o0N2t0cGZtNDhsdWN3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.webp" height="200" alt="Funny GIF" />
-  <h1>I am Batman</h1>
-</div>
-
-
-
----
 
 ## 🌟 GitHub Stats
 
@@ -57,14 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
 
-## 🏆 Achievements
-
-- 🥈 Hack{o}Lution 2024 Runner-up  
-- 🎯 Participated in multiple MLH hackathons  
-- 🚀 Developed innovative games using Unreal Engine and Blender  
-- 🌱 Contributed to open-source projects and communities  
 
 ---
 
@@ -87,13 +69,39 @@
 
 ---
 
-## 👀 Visitor Count
+
+
+
+<h2> About Me</h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🎮Passionate Game Developer skilled in C and C++ with experience in MLH hackathons.</p>
+</li>
+  <li>
+<p>📲Love to create Native apps by using Flutter</p>
+</li>
+<li>
+<p>🧑‍🎨UI/UX designer by using Figma.</p>
+</li>
+<li>
+<p>🧑‍💻 I thrive on solving problems and creating innovative projects.</p>
+</li>
+<li>
+<p> 👷Let's collaborate to create something awesome!</p>
+</li>
+
+
+
+
 
 <div align="center">
+ 
   <img src="https://profile-counter.glitch.me/anirban222777das/count.svg" alt="Visitor Count" />
 </div>
 
 ---
+
 
 ## 🎮 When I'm AFK
 
