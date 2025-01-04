@@ -3,8 +3,8 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" align="center" style="width: 100%" />
 </div>  
   
+### <div align="center"><h1>I'm Anirban, a android developer ,Frontend web dev and game developer  👨‍💻 Love to work with teams 🚀</div>  
 
-###<div align="center"><h1>I'm Anirban, a android developer ,Frontend web dev and game developer  👨‍💻 Love to work with teams 🚀</div>  
 ---
 
 ## 🛠️ Skills & Tools
