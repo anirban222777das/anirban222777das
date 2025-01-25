@@ -38,19 +38,6 @@
   
 <br/>  
 
-
-
-## 🌟 GitHub Stats
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban222777das&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban222777das&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
-
 ---
 
 ## 🌐 Connect With Me
