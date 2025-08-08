@@ -4,7 +4,6 @@
   </span> 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="waving hand" />
 </h1>
-
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="coding animation" style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </div>  
