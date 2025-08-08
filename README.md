@@ -12,6 +12,7 @@
 ### <div align="center" style="font-style: italic; color: #555;">
 I'm <strong>Anirban</strong>, a <span style="color:#00d8ff;">full stack Android developer</span>, currently learning React Native 👨‍💻.<br/>
 Love working with teams and creating innovative projects 🚀
+## <h1 align="center"> Android Dev || Game dev || UI/UX Designer
 </div>  
 
 ---
