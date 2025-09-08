@@ -9,9 +9,9 @@
 </div>  
   
 ### <div align="center" style="font-style: italic; color: #555;">
-I'm <strong>Anirban</strong>, a <span style="color:#00d8ff;">full stack Android developer</span>, currently learning React Native 👨‍💻.<br/>
+I'm <strong>Anirban</strong>, a <span style="color:#00d8ff;">Android developer</span>, currently learning 👨‍💻.<br/>
 Love working with teams and creating innovative projects 🚀
-## <h1 align="center"> Android Dev || Game dev || UI/UX Designer
+## <h1 align="center"> Android Developer
 </div>  
 
 ---
@@ -43,7 +43,7 @@ Love working with teams and creating innovative projects 🚀
 
 ---
 
-## 🏆 Achievements
+## 🏆 Bounties & Accolades
 
 - 🎖️ **Hack{o}Lution 2025** — Special Mention Award  
 - 🥈 **Hack{o}Lution 2024** — Runner-up  
@@ -72,7 +72,7 @@ Love working with teams and creating innovative projects 🚀
 
 ---
 
-<h2 align="center" style="color:#00d8ff;">About Me</h2>
+<h2 align="center" style="color:#00d8ff;">A Bit About This Outlaw</h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" />
 
