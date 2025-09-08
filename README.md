@@ -8,7 +8,7 @@
   💻 Android Developer X 🎮 Gamer
 </h3>
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="80%" style="border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.25);" />
+  <img src="https://64.media.tumblr.com/0ea4d9dd39a3676bd71bd685d1398c9d/2d983227ad8d50e0-32/s500x750/202966d8ee32326f60a1d2107d9c1ad1d7830932.gifv" width="80%" style="border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.25);" />
 </div>
 
 ---
