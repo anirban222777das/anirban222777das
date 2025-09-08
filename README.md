@@ -25,8 +25,6 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-
-### 🔥 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />
   &nbsp;&nbsp;&nbsp;
@@ -37,10 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-</p>
-
-### 🛠️ Frameworks & Libraries
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" title="Flutter" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
@@ -48,10 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-</p>
-
-### 💻 IDEs & Development Tools
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" title="Android Studio" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
@@ -59,17 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
-</p>
-
-### 🎨 Design & Creative Tools
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" title="Figma" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" title="Blender" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" title="Unreal Engine" />
 </p>
-
 </div>
 
 ---
